@@ -1,0 +1,15 @@
+C:\Users\cauaf\source\repos\entregas\entregas\bin\Debug\net6.0\entregas.exe
+C:\Users\cauaf\source\repos\entregas\entregas\bin\Debug\net6.0\entregas.deps.json
+C:\Users\cauaf\source\repos\entregas\entregas\bin\Debug\net6.0\entregas.runtimeconfig.json
+C:\Users\cauaf\source\repos\entregas\entregas\bin\Debug\net6.0\entregas.dll
+C:\Users\cauaf\source\repos\entregas\entregas\bin\Debug\net6.0\entregas.pdb
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.csproj.AssemblyReference.cache
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.AssemblyInfoInputs.cache
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.AssemblyInfo.cs
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.csproj.CoreCompileInputs.cache
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.dll
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\refint\entregas.dll
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.pdb
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\entregas.genruntimeconfig.cache
+C:\Users\cauaf\source\repos\entregas\entregas\obj\Debug\net6.0\ref\entregas.dll
